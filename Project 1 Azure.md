@@ -1,4 +1,4 @@
-## Project 1 Azuve Cloud Environment
+## Project 1 Azure Cloud Environment
 
 ### Preview of Assets Created 
 
