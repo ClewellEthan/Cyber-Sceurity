@@ -32,3 +32,10 @@
 
 ![image](https://user-images.githubusercontent.com/79530988/153942199-a6eb8b1b-a668-447f-ac35-0debb8e570b0.png)
 
+### RedTeam NSG Inbound Security Rules
+
+![image](https://user-images.githubusercontent.com/79530988/153948584-9d865cc5-698d-46fc-ae4f-1556e32ff102.png)
+
+### ELK Stack NSG Inbound Security Rules
+
+![image](https://user-images.githubusercontent.com/79530988/153948894-22df89ee-0b3a-4bf4-b680-b7ab0454b7fc.png)
