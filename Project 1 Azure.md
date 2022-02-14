@@ -4,6 +4,14 @@
 
 ![image](https://user-images.githubusercontent.com/79530988/153937504-9ae30957-b4cd-4e11-a2df-de3ce8b6b53d.png)
 
+### Hosts File Changes 
+
+![image](https://user-images.githubusercontent.com/79530988/153943248-37a1dccf-be08-4c8c-b6bc-959003db1bbc.png)
+
+### Ansible Configuation File Changes 
+
+![image](https://user-images.githubusercontent.com/79530988/153942986-c1287964-7499-4429-9250-38ac147311d8.png)
+
 ### Filebeat Configuartion File Changes 
 
 #### Elastisearch output
