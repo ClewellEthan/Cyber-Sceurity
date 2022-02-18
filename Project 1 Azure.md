@@ -24,7 +24,8 @@
 
 ## How the assets were configured
 
-Below you will find examples of how the various configuartion files were changed to make the entire network talk and display the data we were seeking while deploying this configuration.
+Below you will find examples of how the various configuartion files were changed to make the entire network talk and display the data we were seeking while deploying this configuration. 
+The original files were downloaded and modified with the data below.
 
 #### Hosts File Changes 
 
