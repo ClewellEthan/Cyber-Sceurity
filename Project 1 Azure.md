@@ -11,8 +11,16 @@
    - 2 Network Security Groups 
    - 2 Virtual Networks
    - 1 Jump-Box
+   - 1 Peering Group
 
 ![image](https://user-images.githubusercontent.com/79530988/153937504-9ae30957-b4cd-4e11-a2df-de3ce8b6b53d.png)
+
+## Inbound Security Rules
+
+These pictures below are a vizualization of the working inbound security rules that were ceated with a "zero trust" architecture in mind.
+I started with a "DEFAULT DENY" rule in both NSG's (Network Security Group) to the network to protect the network prior to creting these rules that gave access to the networks. In the RedTeam NSG 
+the rules are designed to allow one workstation to access the JumpBox Provisioner and Load Balancer protecting the web servers. In the ELK Stack NSG I am allowing the two networks to access eachother
+and trnasfer the data that the Metricbeat and Filebeat utilities to function properly and also have the same protection that the RedTeam NSG has from external sources of access. 
 
 #### RedTeam NSG Inbound Security Rules
 
