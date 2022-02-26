@@ -8,3 +8,4 @@ The files you see listed here are a mixture of configurations files that have be
 YAML files that configured the machines with the proper Docker conatiners. There is also a diagram of the network that can be viewed to see 
 exactly how the network is laid out.   
 
+See Project 1 Azure markdown file for specific details
