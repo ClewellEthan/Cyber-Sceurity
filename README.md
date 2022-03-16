@@ -65,4 +65,4 @@ The original files were downloaded and modified with the data below.
 
 ## Links to YAML Files 
 
-https://github.com/ClewellEthan/Cyber-Security-Bootcamp-Project-1/blob/main/elk.yml
+[ELK YML](/ansible/filebeat/Filebeat Config.yaml)
