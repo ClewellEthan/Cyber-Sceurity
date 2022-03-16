@@ -65,4 +65,14 @@ The original files were downloaded and modified with the data below.
 
 ## Links to YAML Files 
 
-[ELK YML](/ansible/filebeat/Filebeat Config.yaml)
+[Filebeat Config YAML](Ansible/filebeat/Filebeatconfig.yml)
+
+[Filebeat Playbook YAML](Ansible/filebeat/Filebeatplaybook.yml)
+
+[Metricbeat Configuration YAML](Ansible/Metricbeat/metricbeat-configuration.yml)
+
+[Metricbeat Playbook YAML](Ansible/Metricbeat/metricbeat-playbook.yml)
+
+[Pentest Playbook YAML](Ansible/Pentest/pentest.yml)
+
+[Ansible Configuration YAML](Ansible/Ansible Configuration/Ansibleconfig.yml)
