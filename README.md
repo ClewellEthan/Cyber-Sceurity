@@ -15,6 +15,10 @@ In this deployment we designed multiple virtual networks, machines, and network 
 
 ![image](https://user-images.githubusercontent.com/79530988/153937504-9ae30957-b4cd-4e11-a2df-de3ce8b6b53d.png)
 
+## Network Diagram
+
+![image](https://user-images.githubusercontent.com/79530988/158511993-3673f0f9-cd9e-4634-beb6-d8e1e1f7ddd9.png)
+
 ## Inbound Security Rules
 
 These pictures below are a vizualization of the working inbound security rules that were ceated with a "zero trust" architecture in mind.
@@ -76,7 +80,3 @@ The original files were downloaded and modified with the data below.
 [Pentest Playbook YAML](Ansible/Pentest/pentest.yml)
 
 [Ansible Configuration YAML](Ansible/Ansible_Configuration/ansibleconfig.yml)
-
-## Network Diagram
-
-![image](https://user-images.githubusercontent.com/79530988/158511993-3673f0f9-cd9e-4634-beb6-d8e1e1f7ddd9.png)
