@@ -76,3 +76,7 @@ The original files were downloaded and modified with the data below.
 [Pentest Playbook YAML](Ansible/Pentest/pentest.yml)
 
 [Ansible Configuration YAML](Ansible/Ansible_Configuration/ansibleconfig.yml)
+
+## Network Diagram
+
+![image](https://user-images.githubusercontent.com/79530988/158511993-3673f0f9-cd9e-4634-beb6-d8e1e1f7ddd9.png)
