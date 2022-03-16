@@ -75,4 +75,4 @@ The original files were downloaded and modified with the data below.
 
 [Pentest Playbook YAML](Ansible/Pentest/pentest.yml)
 
-[Pentest Playbook YAML](Ansible/Ansible Configuration/Ansibleconfig.yml)
+[Ansible Configuration YAML](Ansible/Ansible Configuration/Ansibleconfig.yml)
